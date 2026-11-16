@@ -487,7 +487,7 @@ accepted.
 | 11/16 | Wang, Leo | Agent Skills for Data Science |
 | 11/16 | Choudhury, Ruhama | Deep Learning |
 | 11/18 | Hartman, Mikaela | Multidimensional Scaling |
-| 11/18 | Kiani, Ismail | [topic] |
+| 11/18 | Kiani, Ismail | Gradient Boosting |
 | 11/18 | Kelly, Daniel | Multiple Imputation for Missing Data |
 
 ### Final Project Presentation Schedule
