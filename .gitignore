@@ -3,8 +3,16 @@
 **/.quarto/
 **/_freeze/
 **/*.quarto_ipynb
+**/index_files/
 *.html
-/presentations/.gitignore
+# LaTeX syllabus build products
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+/syllabus.pdf
+/syllabus.tex
 
 # Jupyter
 .ipynb_checkpoints/
@@ -25,3 +33,7 @@ venv/
 .vscode/
 
 /.quarto/
+
+# Downloaded midterm data
+/data/311_honking_raw.csv
+/data/311_volume_by_zip.csv
